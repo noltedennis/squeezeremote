@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Squeeze Remote</string>
+    <string name="prompt_email">Username (optional)</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="prompt_webpage_url" translatable="false">LMS URL</string>
+    <string name="action_go">Go!</string>
+    <string name="app_logo_desc" translatable="false">App Logo</string>
+</resources>

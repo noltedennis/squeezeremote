@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Squeeze Remote</string>
+    <string name="prompt_email">Benutzername (optional)</string>
+    <string name="prompt_password">Passwort (optional)</string>
+    <string name="action_go">Los geht\'s!</string>
+</resources>
